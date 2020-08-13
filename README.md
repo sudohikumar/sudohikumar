@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Himanshu Kumar, a passionate developer and DevOps engineer, keen on working on providing solutions and fixing stuffs.
+I am Himanshu Kumar, a passionate developer and DevOps engineer, keen on providing solutions and fixing stuffs.
 
 Also, a newbie open source contributor.
 
