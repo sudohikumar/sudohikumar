@@ -23,28 +23,28 @@ I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good h
 
 ### Cloud Service
 <p float="left">
-<img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" height="50" title="Google Cloud Platform"/>&nbsp;
-<img src="https://kubernetes.io/images/favicon.png" height="50" title="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/google-cloud.png" height="50" title="Google Cloud Platform"/>&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/k8s.png" height="50" title="Kubernetes"/>
 </p>
 
 
 ### Cloud Tools
 <p float="left">
-<img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" height="50" title="Terraform"/>&nbsp;&nbsp;
-<img src="https://helm.sh/img/helm.svg" data-canonical-src="https://helm.sh/img/helm.svg" height="50" title="Helm"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" height="50" title="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://spinnaker.io/assets/images/spinnaker-logo-inline.svg" height="50" title="Spinnaker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/jenkins-1-logo.png" height="50" title="Jenkins"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://istio.io/latest/img/istio-whitelogo-bluebackground-unframed.svg" height="50" title="Istio"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/efk-1.png" height="50" title="EFK Stack"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://velero.io/img/Velero.svg" height="50" title="Velero"/>
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/terraform.png" height="50" title="Terraform"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/helm.svg" height="50" title="Helm"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/docker.png" height="50" title="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/spinnaker.svg" height="50" title="Spinnaker"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/jenkins.png" height="50" title="Jenkins"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/istio.svg" height="50" title="Istio"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/efk.png" height="50" title="EFK Stack"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/velero.svg" height="50" title="Velero"/>
 </p>
 
 
-### Databases:
+### Databases
 <p float="left">
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50" title="Postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" height="50" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/pg.png" height="50" title="Postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/mongo.png" height="50" title="MongoDB"/>
 </p>
 
 <!--- ![Stats's](https://github-readme-stats.vercel.app/api?username=justsimplify&count_private=true&show_icons=true) --->
