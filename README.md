@@ -37,7 +37,8 @@ I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good h
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/jenkins.png" height="50" title="Jenkins"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/istio.svg" height="50" title="Istio"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/efk.png" height="50" title="EFK Stack"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/velero.svg" height="50" title="Velero"/>
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/velero.svg" height="50" title="Velero"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/etc.png" height="20"/>
 </p>
 
 
@@ -50,5 +51,5 @@ I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good h
 <!--- ![Stats's](https://github-readme-stats.vercel.app/api?username=justsimplify&count_private=true&show_icons=true) --->
 
 ### 📫 Reach me @
-⦿ At [Email](mailto:himanshu.kumar133@gmail.com)<br>
+⦿ Shoot me an [Email](mailto:himanshu.kumar133@gmail.com)<br>
 ⦿ More info about me on [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-57864196/)
