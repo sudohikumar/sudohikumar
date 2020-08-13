@@ -38,7 +38,7 @@ I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good h
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/istio.svg" height="50" title="Istio"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/efk.png" height="50" title="EFK Stack"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/velero.svg" height="50" title="Velero"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/etc.png" height="20"/>
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/more.png" height="20"/>
 </p>
 
 
