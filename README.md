@@ -21,6 +21,11 @@ Also, a newbie open source contributor.
 
 I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good hands-on with web technologies such as **Node.js**, **express js**, etc.
 
+<p float="left">
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/golang.png" height="50" title="Golang"/>&nbsp;
+<img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/python.png" height="50" title="Python"/>
+</p>
+
 ### Cloud Service
 <p float="left">
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/google-cloud.png" height="50" title="Google Cloud Platform"/>&nbsp;
