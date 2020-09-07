@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Himanshu Kumar, a passionate developer and DevOps engineer, keen on providing solutions and fixing stuffs.
+I am Himanshu Kumar, a [Google Cloud Certified](https://www.credential.net/22d3b90b-5caa-4ffd-9abd-4f0ecaee9e61) Platform Engineer and Polyglot Developer, who loves hacking around problems and provide solutions. 
 
 Also, a newbie open source contributor.
 
-I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good hands-on with web technologies such as **Node.js**, **express js**, etc.
+I mostly work in **Golang**, **Python** and little bit of **Java**. Also, good hands-on with web technologies such as **Node.js**, **Express Js**, etc.
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/justsimplify/justsimplify/master/assets/golang.png" height="70" title="Golang"/>&nbsp;
