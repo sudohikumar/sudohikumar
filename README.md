@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Himanshu Kumar, a [Google Cloud Certified](https://www.credential.net/22d3b90b-5caa-4ffd-9abd-4f0ecaee9e61) Platform Engineer and Polyglot Developer, who loves hacking around problems and provide solutions. 
+I am Himanshu Kumar, a [Google Cloud](https://www.credential.net/22d3b90b-5caa-4ffd-9abd-4f0ecaee9e61) and [CKAD](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/d04a8201-4573-4864-87fc-a2a07b5be851-himanshu-kumar-a4d0a049-c558-445d-87ae-4ca89df61688-certificate.pdf) Certified Platform Engineer and Polyglot Developer, who loves hacking around problems and provide solutions. 
 
 Also, a newbie open source contributor.
 
